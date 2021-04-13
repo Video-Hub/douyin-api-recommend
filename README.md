@@ -26,7 +26,7 @@
 | token | string | 接口授权码 |
 
 <a name="zOzBk"></a>
-#### 返回示例请联系：[TiToData](https://www.titodata.com/about)
+#### 返回示例请联系微信：ifuxing123
 <br />
 
 <a name="ZbxPg"></a>
@@ -39,7 +39,7 @@
 | token | string | 接口授权码 |
 
 <a name="9sW9M"></a>
-#### 返回示例请联系：[TiToData](https://www.titodata.com/about)
+#### 返回示例请联系微信：ifuxing123
 <br />
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Video-Hub.douyin-api-recommend)
