@@ -4,7 +4,7 @@
 ## 抖音直播数据、抖音数据采集、抖音直播监控
 
 #### TiToData：专业的短视频数据采集、处理平台。
-> 更多信息请联系微信：ifuxing123
+> 更多信息请联系微信：1764328791
 ```
 海量数据采集
 每天为客户采集5亿条数据
@@ -26,7 +26,7 @@
 | token | string | 接口授权码 |
 
 <a name="zOzBk"></a>
-#### 返回示例请联系微信：ifuxing123
+#### 返回示例请联系微信：1764328791
 <br />
 
 <a name="ZbxPg"></a>
@@ -39,7 +39,7 @@
 | token | string | 接口授权码 |
 
 <a name="9sW9M"></a>
-#### 返回示例请联系微信：ifuxing123
+#### 返回示例请联系微信：1764328791
 <br />
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Video-Hub.douyin-api-recommend)
